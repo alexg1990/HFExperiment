@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HFExperiment_pointing", "Assembly-CSharp.csproj", "{7976490D-CA95-D87D-28CD-A5337F1F6B3A}"
+EndProject
+Project("{D2075BA3-8FDC-96FA-F88F-5CD39B530922}") = "HFExperiment_pointing", "Assembly-UnityScript.unityproj", "{5FC393E9-E2D9-D13A-309D-CC29C0D4C79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HFExperiment_pointing", "Assembly-CSharp-Editor.csproj", "{8224F2D6-89EB-A213-59EA-C73867637F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7976490D-CA95-D87D-28CD-A5337F1F6B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7976490D-CA95-D87D-28CD-A5337F1F6B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7976490D-CA95-D87D-28CD-A5337F1F6B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7976490D-CA95-D87D-28CD-A5337F1F6B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC393E9-E2D9-D13A-309D-CC29C0D4C79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC393E9-E2D9-D13A-309D-CC29C0D4C79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC393E9-E2D9-D13A-309D-CC29C0D4C79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC393E9-E2D9-D13A-309D-CC29C0D4C79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8224F2D6-89EB-A213-59EA-C73867637F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8224F2D6-89EB-A213-59EA-C73867637F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8224F2D6-89EB-A213-59EA-C73867637F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8224F2D6-89EB-A213-59EA-C73867637F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
